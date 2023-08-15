@@ -5,5 +5,4 @@ Cansado de um amiguinho/a? Precisa encher o saco dele?
 
 dois metodos de funcionamento de programa
 
-For i in range(50) é tempo limitado, caso deseje que fique até vc mandar parar comente/delete essa parte do codigo e tire
-o comentario da parte do while True
+For i in range(50) é tempo limitado, caso deseje que fique até vc mandar parar comente/delete essa parte do codigo e tire o comentario da parte do while True
